@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Personal Website"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: My Project
+        href: my-project.qmd
+      - text: About Us
+        href: about.qmd
+      - text: Reflection
+        href: reflection.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+

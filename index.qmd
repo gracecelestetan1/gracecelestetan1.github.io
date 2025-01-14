@@ -1,0 +1,24 @@
+
+
+# Welcome to My Website
+
+<p style="text-align: center;">
+  <img src="img/profile.jpg" alt="My Image" style="width: 150px; border-radius: 50%;"/>
+</p>
+
+Hello! My name is **Celeste Tan Jia Yu**, and this is my personal website. Explore the tabs above to learn about my projects, more about me, and my reflections.
+
+---
+
+## About Me
+
+I am currently a **Year 2 Applied Computing in FinTech student** at the Singapore Institute of Technology. Before this, I was at Republic Polytechnic, studying Financial Technology. I am passionate about the potential of FinTech to transform the financial industry and am eager to continuously enhance my skills and knowledge in this dynamic field.
+
+In my free time, I enjoy:
+- **Reading**
+- **Hiking**
+- **Volunteering**
+
+Helping others makes me happy because many people helped my family when I was younger. I'm grateful for that and want to do the same for others. Additionally, I also enjoy participating in competitions to strengthen and broaden my skills.
+
+At the end of the day, I aspire to be proud of how far I have come by always working hard to be the best version of myself.

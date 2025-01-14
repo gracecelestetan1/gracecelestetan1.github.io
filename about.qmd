@@ -1,0 +1,64 @@
+
+
+# Who Am I?
+
+My name is **Celeste Tan Jia Yu**, and I am passionate about data science, technology, and storytelling. I enjoy working on projects that make data insights accessible to everyone.
+
+---
+
+# Technical Skills
+
+**Computer Maintenance and System Administration**
+- Proficient in computer maintenance and system administration tasks.
+- Operating Systems: Ubuntu (Linux)
+
+**Networking**
+- LAN and Wireless networking expertise.
+- Cisco Packet Tracer for network simulation.
+
+**Programming Languages**
+- Advanced Java
+- Python (Wing IDE)
+- .NET (Visual Studio)
+- JavaScript
+- MySQL
+- C# (Visual Studio)
+- Solidity (blockchain development)
+
+**Database Programs**
+- Proficient in managing databases using MySQL and Oracle Database.
+
+**Networking Programs**
+- Experienced in network analysis using Wireshark.
+- Cisco Packet Tracer for network simulation.
+
+**Virtualization**
+- Experience with VMware virtualization.
+
+**MS Office Suite**
+- MS Word
+- MS Excel
+- MS PowerPoint
+
+**Methodology**
+- SDLC (Software Development Life Cycle)
+- BPMN (Business Process Model and Notation)
+- UML (Unified Modeling Language)
+- Agile methodology
+- RAD (Rapid Application Development)
+
+**Software Packages**
+- SAS (Statistical Analysis System)
+
+---
+
+# Achievements
+
+- **2023**: Octava Foundation Scholar
+- **2022**: Director’s Roll of Honour
+- **2022**: Top 10 Finalist of the iDare Entrepreneurial Challenge 2022 (December to February)
+- **2021 – 2022**: Participant of EMPOWER AI for Girls (10 Sessions from October to February)
+- **2021**: Participant of the PolyFintech Hackathon 2021
+- **2019 – 2020**: Howe Yoon Chong PSA Scholarship
+- **2019 – 2020**: Chip Eng Seng Grant
+- **2019**: Participant for Girls Capture the Flag Competition

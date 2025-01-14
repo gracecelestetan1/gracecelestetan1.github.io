@@ -1,0 +1,55 @@
+
+# Projects
+
+## SIT C Project (Appointment Scheduler Database)
+
+<p style="text-align: center;">
+  <img src="img/appointment_scheduler.jpg" alt="Appointment Scheduler" style="width: 300px; height: 200px; object-fit: cover;" />
+</p>
+
+**Role**: Member  
+**Skills**: C language  
+**Year**: 2023  
+
+Collaborated with a dynamic team to develop a **comprehensive Clinic Appointment Scheduling System** using both **ArrayList** and **LinkedList** data structures to assess their comparative performance. The system provides users with **efficient management capabilities**, allowing for operations such as:
+- Displaying all appointments
+- Inserting new appointments
+- Querying specific appointments
+- Updating appointment details
+- Deleting appointments
+- Saving appointment data to a file
+
+**Robust error-handling mechanisms** are integrated to ensure a **reliable user experience**. The **user-friendly interface** enhances the overall experience, ensuring **smooth navigation** through various functionalities.
+
+---
+
+## SIT Python Project (HDB Analysis Prediction GUI)
+
+<p style="text-align: center;">
+  <img src="img/hdb_analysis_gui.jpg" alt="HDB Analysis GUI" style="width: 300px; height: 200px; object-fit: cover;" />
+</p>
+
+**Role**: Leader  
+**Skills**: Python (Selenium, BeautifulSoup, Pandas, CustomTkinter, Matplotlib, CSV, etc.)  
+**Year**: 2023  
+
+Collaborated with a dynamic team to develop a **comprehensive HDB property analysis GUI**. The application not only provides **insightful data analytics** but also simplifies the property selection process through **efficient web scraping**, offering users a **multifaceted tool** for well-informed decision-making.
+
+Key Features:
+- **Predictive pricing models**: Users can forecast property prices.
+- **Interactive data analytics charts**: Provide a visual understanding of market trends.
+- **Export charts in PNG format**: Enhances user convenience.
+
+---
+
+## RP Final Year Project (SPF Gatekeeper)
+
+<p style="text-align: center;">
+  <img src="img/spf_gatekeeper.jpg" alt="SPF Gatekeeper" style="width: 300px; height: 200px; object-fit: cover;" />
+</p>
+
+**Role**: Member of the FYP team  
+**Skills**: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development  
+**Year**: 2022  
+
+Led weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a **web application utilizing a Google Chrome Extension**, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the **top two projects in the cohort**.

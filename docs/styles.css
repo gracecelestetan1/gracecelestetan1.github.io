@@ -1,0 +1,23 @@
+/* css styles */
+/* Center text and images */
+h1, h2, h3, p, img {
+  text-align: center;
+}
+
+/* Add padding to the page */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Customize links in the navbar */
+.navbar a {
+  color: #ffffff !important;
+}
+
+/* Add hover effect to links */
+.navbar a:hover {
+  background-color: #007BFF;
+  color: white !important;
+}

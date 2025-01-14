@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello! My name is Celeste Tan Jia Yu, and this is my personal website. Explore the tabs above to learn about my projects, more about me, and my reflections.\n\n\n\nI am currently a Year 2 Applied Computing in FinTech student at the Singapore Institute of Technology. Before this, I was at Republic Polytechnic, studying Financial Technology. I am passionate about the potential of FinTech to transform the financial industry and am eager to continuously enhance my skills and knowledge in this dynamic field.\nIn my free time, I enjoy: - Reading - Hiking - Volunteering\nHelping others makes me happy because many people helped my family when I was younger. I’m grateful for that and want to do the same for others. Additionally, I also enjoy participating in competitions to strengthen and broaden my skills.\nAt the end of the day, I aspire to be proud of how far I have come by always working hard to be the best version of myself."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I am currently a Year 2 Applied Computing in FinTech student at the Singapore Institute of Technology. Before this, I was at Republic Polytechnic, studying Financial Technology. I am passionate about the potential of FinTech to transform the financial industry and am eager to continuously enhance my skills and knowledge in this dynamic field.\nIn my free time, I enjoy: - Reading - Hiking - Volunteering\nHelping others makes me happy because many people helped my family when I was younger. I’m grateful for that and want to do the same for others. Additionally, I also enjoy participating in competitions to strengthen and broaden my skills.\nAt the end of the day, I aspire to be proud of how far I have come by always working hard to be the best version of myself."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who Am I?",
+    "section": "",
+    "text": "Who Am I?\nMy name is Celeste Tan Jia Yu, and I am passionate about data science, technology, and storytelling. I enjoy working on projects that make data insights accessible to everyone.\n\n\n\nTechnical Skills\nComputer Maintenance and System Administration - Proficient in computer maintenance and system administration tasks. - Operating Systems: Ubuntu (Linux)\nNetworking - LAN and Wireless networking expertise. - Cisco Packet Tracer for network simulation.\nProgramming Languages - Advanced Java - Python (Wing IDE) - .NET (Visual Studio) - JavaScript - MySQL - C# (Visual Studio) - Solidity (blockchain development)\nDatabase Programs - Proficient in managing databases using MySQL and Oracle Database.\nNetworking Programs - Experienced in network analysis using Wireshark. - Cisco Packet Tracer for network simulation.\nVirtualization - Experience with VMware virtualization.\nMS Office Suite - MS Word - MS Excel - MS PowerPoint\nMethodology - SDLC (Software Development Life Cycle) - BPMN (Business Process Model and Notation) - UML (Unified Modeling Language) - Agile methodology - RAD (Rapid Application Development)\nSoftware Packages - SAS (Statistical Analysis System)\n\n\n\nAchievements\n\n2023: Octava Foundation Scholar\n2022: Director’s Roll of Honour\n2022: Top 10 Finalist of the iDare Entrepreneurial Challenge 2022 (December to February)\n2021 – 2022: Participant of EMPOWER AI for Girls (10 Sessions from October to February)\n2021: Participant of the PolyFintech Hackathon 2021\n2019 – 2020: Howe Yoon Chong PSA Scholarship\n2019 – 2020: Chip Eng Seng Grant\n2019: Participant for Girls Capture the Flag Competition"
+  },
+  {
+    "objectID": "my-project.html",
+    "href": "my-project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Member\nSkills: C language\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive Clinic Appointment Scheduling System using both ArrayList and LinkedList data structures to assess their comparative performance. The system provides users with efficient management capabilities, allowing for operations such as: - Displaying all appointments - Inserting new appointments - Querying specific appointments - Updating appointment details - Deleting appointments - Saving appointment data to a file\nRobust error-handling mechanisms are integrated to ensure a reliable user experience. The user-friendly interface enhances the overall experience, ensuring smooth navigation through various functionalities.\n\n\n\n\n\n\n\nRole: Leader\nSkills: Python (Selenium, BeautifulSoup, Pandas, CustomTkinter, Matplotlib, CSV, etc.)\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive HDB property analysis GUI. The application not only provides insightful data analytics but also simplifies the property selection process through efficient web scraping, offering users a multifaceted tool for well-informed decision-making.\nKey Features: - Predictive pricing models: Users can forecast property prices. - Interactive data analytics charts: Provide a visual understanding of market trends. - Export charts in PNG format: Enhances user convenience.\n\n\n\n\n\n\n\nRole: Member of the FYP team\nSkills: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development\nYear: 2022\nLed weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a web application utilizing a Google Chrome Extension, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the top two projects in the cohort."
+  },
+  {
+    "objectID": "my-project.html#sit-c-project-appointment-scheduler-database",
+    "href": "my-project.html#sit-c-project-appointment-scheduler-database",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Member\nSkills: C language\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive Clinic Appointment Scheduling System using both ArrayList and LinkedList data structures to assess their comparative performance. The system provides users with efficient management capabilities, allowing for operations such as: - Displaying all appointments - Inserting new appointments - Querying specific appointments - Updating appointment details - Deleting appointments - Saving appointment data to a file\nRobust error-handling mechanisms are integrated to ensure a reliable user experience. The user-friendly interface enhances the overall experience, ensuring smooth navigation through various functionalities."
+  },
+  {
+    "objectID": "my-project.html#sit-python-project-hdb-analysis-prediction-gui",
+    "href": "my-project.html#sit-python-project-hdb-analysis-prediction-gui",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Leader\nSkills: Python (Selenium, BeautifulSoup, Pandas, CustomTkinter, Matplotlib, CSV, etc.)\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive HDB property analysis GUI. The application not only provides insightful data analytics but also simplifies the property selection process through efficient web scraping, offering users a multifaceted tool for well-informed decision-making.\nKey Features: - Predictive pricing models: Users can forecast property prices. - Interactive data analytics charts: Provide a visual understanding of market trends. - Export charts in PNG format: Enhances user convenience."
+  },
+  {
+    "objectID": "my-project.html#rp-final-year-project-spf-gatekeeper",
+    "href": "my-project.html#rp-final-year-project-spf-gatekeeper",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Member of the FYP team\nSkills: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development\nYear: 2022\nLed weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a web application utilizing a Google Chrome Extension, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the top two projects in the cohort."
+  }
+]
