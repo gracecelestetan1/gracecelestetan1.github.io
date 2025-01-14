@@ -1,24 +1,56 @@
-
-
 # Welcome to My Website
 
 <p style="text-align: center;">
-  <img src="img/profile.jpg" alt="My Image" style="width: 150px; border-radius: 50%;"/>
+  <a href="img/profile.jpg" target="_blank">
+    <img src="img/profile.jpg" alt="My Image" style="width: 150px; border-radius: 50%;"/>
+  </a>
 </p>
 
-Hello! My name is **Celeste Tan Jia Yu**, and this is my personal website. Explore the tabs above to learn about my projects, more about me, and my reflections.
+Hello! My name is **Celeste Tan Jia Yu**, and this is my personal website. Here, you can explore my projects, learn more about me, and read my reflections. I hope you enjoy browsing through it!
 
 ---
 
-## About Me
+## My Favorite Song 🎵
 
-I am currently a **Year 2 Applied Computing in FinTech student** at the Singapore Institute of Technology. Before this, I was at Republic Polytechnic, studying Financial Technology. I am passionate about the potential of FinTech to transform the financial industry and am eager to continuously enhance my skills and knowledge in this dynamic field.
+Music is an essential part of my life, and I'd like to share one of my favorite songs with you!  
 
-In my free time, I enjoy:
-- **Reading**
-- **Hiking**
-- **Volunteering**
+<p style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6T9yp6IjG1o" 
+    title="My Favorite Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</p>
 
-Helping others makes me happy because many people helped my family when I was younger. I'm grateful for that and want to do the same for others. Additionally, I also enjoy participating in competitions to strengthen and broaden my skills.
+---
 
-At the end of the day, I aspire to be proud of how far I have come by always working hard to be the best version of myself.
+## My Home 🏠
+
+<p style="float:left; margin-right: 10px;">
+  <img src="img/yishun.jpg" alt="Yishun" style="height: 100px;"/>
+</p>
+
+**Yishun** is a vibrant neighborhood located in the northern part of Singapore. It is well-known for its rich cultural diversity and its welcoming community. 
+
+The neighborhood is home to a variety of amenities, such as parks, shopping malls, and recreational centers, making it a convenient and enjoyable place to live. Yishun has a unique charm, blending modern urban development with pockets of greenery and natural beauty. 
+
+Residents of Yishun also enjoy easy access to transportation, ensuring seamless connectivity to other parts of Singapore. It’s a neighborhood filled with character and warmth, offering a balance of city convenience and suburban tranquility.
+
+<div style="clear: both;"></div>
+
+---
+
+## Interactive Map of Indonesia 🗺️
+
+I am also **Indonesian Chinese**. Indonesia is a country rich in cultural diversity and natural beauty. Growing up as part of this unique cultural blend has shaped my perspectives and values. It has also inspired my passion for learning and connecting with people from various walks of life. Explore Indonesia on the map below:  
+
+<p style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31746097.656244654!2d95.18430884105996!3d-2.483382599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708c620a26ff33%3A0x3027a76e352bed0!2sIndonesia!5e0!3m2!1sen!2sid!4v1673552295823!5m2!1sen!2sid" 
+    width="100%" 
+    height="450" 
+    style="border: 0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</p>

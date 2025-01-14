@@ -1,4 +1,3 @@
-
 # Projects
 
 ## SIT C Project (Appointment Scheduler Database)

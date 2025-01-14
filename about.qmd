@@ -1,57 +1,23 @@
-
-
 # Who Am I?
 
 My name is **Celeste Tan Jia Yu**, and I am passionate about data science, technology, and storytelling. I enjoy working on projects that make data insights accessible to everyone.
 
----
 
 # Technical Skills
 
-**Computer Maintenance and System Administration**
-- Proficient in computer maintenance and system administration tasks.
-- Operating Systems: Ubuntu (Linux)
-
-**Networking**
-- LAN and Wireless networking expertise.
-- Cisco Packet Tracer for network simulation.
-
-**Programming Languages**
-- Advanced Java
-- Python (Wing IDE)
-- .NET (Visual Studio)
-- JavaScript
-- MySQL
-- C# (Visual Studio)
-- Solidity (blockchain development)
-
-**Database Programs**
-- Proficient in managing databases using MySQL and Oracle Database.
-
-**Networking Programs**
-- Experienced in network analysis using Wireshark.
-- Cisco Packet Tracer for network simulation.
-
-**Virtualization**
-- Experience with VMware virtualization.
-
-**MS Office Suite**
-- MS Word
-- MS Excel
-- MS PowerPoint
-
-**Methodology**
-- SDLC (Software Development Life Cycle)
-- BPMN (Business Process Model and Notation)
-- UML (Unified Modeling Language)
-- Agile methodology
-- RAD (Rapid Application Development)
-
-**Software Packages**
-- SAS (Statistical Analysis System)
+| **Category**                        | **Details**                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Computer Maintenance and System Administration** | Proficient in computer maintenance and system administration tasks. <br> Operating Systems: Ubuntu (Linux) |
+| **Networking**                      | LAN and Wireless networking expertise. <br> Cisco Packet Tracer for network simulation.        |
+| **Programming Languages**           | Advanced Java, Python (Wing IDE), .NET (Visual Studio), JavaScript, MySQL, C# (Visual Studio), Solidity (blockchain development) |
+| **Database Programs**               | Proficient in managing databases using MySQL and Oracle Database.                              |
+| **Networking Programs**             | Experienced in network analysis using Wireshark. <br> Cisco Packet Tracer for network simulation. |
+| **Virtualization**                  | Experience with VMware virtualization.                                                        |
+| **MS Office Suite**                 | MS Word, MS Excel, MS PowerPoint                                                              |
+| **Methodology**                     | SDLC (Software Development Life Cycle), BPMN (Business Process Model and Notation), UML (Unified Modeling Language), Agile methodology, RAD (Rapid Application Development) |
+| **Software Packages**               | SAS (Statistical Analysis System)                                                             |
 
 ---
-
 # Achievements
 
 - **2023**: Octava Foundation Scholar

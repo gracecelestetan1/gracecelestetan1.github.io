@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Hello! My name is Celeste Tan Jia Yu, and this is my personal website. Explore the tabs above to learn about my projects, more about me, and my reflections.\n\n\n\nI am currently a Year 2 Applied Computing in FinTech student at the Singapore Institute of Technology. Before this, I was at Republic Polytechnic, studying Financial Technology. I am passionate about the potential of FinTech to transform the financial industry and am eager to continuously enhance my skills and knowledge in this dynamic field.\nIn my free time, I enjoy: - Reading - Hiking - Volunteering\nHelping others makes me happy because many people helped my family when I was younger. I’m grateful for that and want to do the same for others. Additionally, I also enjoy participating in competitions to strengthen and broaden my skills.\nAt the end of the day, I aspire to be proud of how far I have come by always working hard to be the best version of myself."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "I am currently a Year 2 Applied Computing in FinTech student at the Singapore Institute of Technology. Before this, I was at Republic Polytechnic, studying Financial Technology. I am passionate about the potential of FinTech to transform the financial industry and am eager to continuously enhance my skills and knowledge in this dynamic field.\nIn my free time, I enjoy: - Reading - Hiking - Volunteering\nHelping others makes me happy because many people helped my family when I was younger. I’m grateful for that and want to do the same for others. Additionally, I also enjoy participating in competitions to strengthen and broaden my skills.\nAt the end of the day, I aspire to be proud of how far I have come by always working hard to be the best version of myself."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Who Am I?",
-    "section": "",
-    "text": "Who Am I?\nMy name is Celeste Tan Jia Yu, and I am passionate about data science, technology, and storytelling. I enjoy working on projects that make data insights accessible to everyone.\n\n\n\nTechnical Skills\nComputer Maintenance and System Administration - Proficient in computer maintenance and system administration tasks. - Operating Systems: Ubuntu (Linux)\nNetworking - LAN and Wireless networking expertise. - Cisco Packet Tracer for network simulation.\nProgramming Languages - Advanced Java - Python (Wing IDE) - .NET (Visual Studio) - JavaScript - MySQL - C# (Visual Studio) - Solidity (blockchain development)\nDatabase Programs - Proficient in managing databases using MySQL and Oracle Database.\nNetworking Programs - Experienced in network analysis using Wireshark. - Cisco Packet Tracer for network simulation.\nVirtualization - Experience with VMware virtualization.\nMS Office Suite - MS Word - MS Excel - MS PowerPoint\nMethodology - SDLC (Software Development Life Cycle) - BPMN (Business Process Model and Notation) - UML (Unified Modeling Language) - Agile methodology - RAD (Rapid Application Development)\nSoftware Packages - SAS (Statistical Analysis System)\n\n\n\nAchievements\n\n2023: Octava Foundation Scholar\n2022: Director’s Roll of Honour\n2022: Top 10 Finalist of the iDare Entrepreneurial Challenge 2022 (December to February)\n2021 – 2022: Participant of EMPOWER AI for Girls (10 Sessions from October to February)\n2021: Participant of the PolyFintech Hackathon 2021\n2019 – 2020: Howe Yoon Chong PSA Scholarship\n2019 – 2020: Chip Eng Seng Grant\n2019: Participant for Girls Capture the Flag Competition"
-  },
-  {
     "objectID": "my-project.html",
     "href": "my-project.html",
     "title": "Projects",
@@ -47,5 +26,40 @@
     "title": "Projects",
     "section": "",
     "text": "Role: Member of the FYP team\nSkills: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development\nYear: 2022\nLed weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a web application utilizing a Google Chrome Extension, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the top two projects in the cohort."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflections",
+    "section": "",
+    "text": "GenAI has been a huge part of my learning journey, like a mentor who guides me like teaching me the basics and improving my skills along the way, it also breaks down complex topic for me which helps me digest it faster I mostly use the AI, Chatgpt which I find the most reliable. Additionally it also helps me in identifying bugs if I make any. Though it might not be fully understanding of everything as it might not be good in everything like designing or doing a whole application. But it does help me understand better and guide me when I am in need of small tasks which really helps me alot in my studies and the way I do learning now.\n\n\n\nRelated Video\nWatch this video to learn more:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello! My name is Celeste Tan Jia Yu, and this is my personal website. Here, you can explore my projects, learn more about me, and read my reflections. I hope you enjoy browsing through it!\n\n\n\nMusic is an essential part of my life, and I’d like to share one of my favorite songs with you!\n\n\n\n\n\n\n\n\n\n\n\nYishun is a vibrant neighborhood located in the northern part of Singapore. It is well-known for its rich cultural diversity and its welcoming community.\nThe neighborhood is home to a variety of amenities, such as parks, shopping malls, and recreational centers, making it a convenient and enjoyable place to live. Yishun has a unique charm, blending modern urban development with pockets of greenery and natural beauty.\nResidents of Yishun also enjoy easy access to transportation, ensuring seamless connectivity to other parts of Singapore. It’s a neighborhood filled with character and warmth, offering a balance of city convenience and suburban tranquility.\n\n\n\n\n\n\n\nI am also Indonesian Chinese. Indonesia is a country rich in cultural diversity and natural beauty. Growing up as part of this unique cultural blend has shaped my perspectives and values. It has also inspired my passion for learning and connecting with people from various walks of life. Explore Indonesia on the map below:"
+  },
+  {
+    "objectID": "index.html#my-favorite-song",
+    "href": "index.html#my-favorite-song",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Music is an essential part of my life, and I’d like to share one of my favorite songs with you!"
+  },
+  {
+    "objectID": "index.html#my-home",
+    "href": "index.html#my-home",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Yishun is a vibrant neighborhood located in the northern part of Singapore. It is well-known for its rich cultural diversity and its welcoming community.\nThe neighborhood is home to a variety of amenities, such as parks, shopping malls, and recreational centers, making it a convenient and enjoyable place to live. Yishun has a unique charm, blending modern urban development with pockets of greenery and natural beauty.\nResidents of Yishun also enjoy easy access to transportation, ensuring seamless connectivity to other parts of Singapore. It’s a neighborhood filled with character and warmth, offering a balance of city convenience and suburban tranquility."
+  },
+  {
+    "objectID": "index.html#interactive-map-of-indonesia",
+    "href": "index.html#interactive-map-of-indonesia",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I am also Indonesian Chinese. Indonesia is a country rich in cultural diversity and natural beauty. Growing up as part of this unique cultural blend has shaped my perspectives and values. It has also inspired my passion for learning and connecting with people from various walks of life. Explore Indonesia on the map below:"
   }
 ]

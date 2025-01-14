@@ -3,8 +3,25 @@ title: "Reflections"
 format: html
 ---
 
-## GenAI has been a huge part of my learning journey, like a mentor who guides me like teaching me the basics and improving my skills along the way, it also breaks down complex topic for me which helps me digest it faster I mostly use the AI, Chatgpt which I find the most reliable. Additionally it also helps me in identifying bugs if I make any. Though it might not be fully understanding of everything as it might not be good in everything like designing or doing a whole application . But it does help me understand better and guide me when I am in need of small tasks.
+<p style="text-transform: none;">
+GenAI has been a huge part of my learning journey, like a mentor who guides me like teaching me the basics and improving my skills along the way, it also breaks down complex topic for me which helps me digest it faster I mostly use the AI, Chatgpt which I find the most reliable. Additionally it also helps me in identifying bugs if I make any. Though it might not be fully understanding of everything as it might not be good in everything like designing or doing a whole application. But it does help me understand better and guide me when I am in need of small tasks which really helps me alot in my studies and the way I do learning now.
+</p>
 
+---
 
+### Related Video
 
+Watch this video to learn more:  
+[Click here to watch](https://www.youtube.com/watch?v=DQacCB9tDaw)
 
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/DQacCB9tDaw" 
+    title="Related Video" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>

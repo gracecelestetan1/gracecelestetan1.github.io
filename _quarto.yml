@@ -3,14 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "My Personal Website"
+  title: ""
   navbar:
     left:
+      - text: "<img src='img/logo.png' alt='Logo' style='height:30px; vertical-align: middle;'> Celeste Portfolio"
+        href: index.qmd
       - text: Home
         href: index.qmd
       - text: My Project
         href: my-project.qmd
-      - text: About Us
+      - text: About Me
         href: about.qmd
       - text: Reflection
         href: reflection.qmd
@@ -20,6 +22,3 @@ format:
     theme: minty
     css: styles.css
     toc: true
-
-
-
