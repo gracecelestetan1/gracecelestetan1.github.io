@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "my-project.html",
-    "href": "my-project.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Role: Member\nSkills: C language\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive Clinic Appointment Scheduling System using both ArrayList and LinkedList data structures to assess their comparative performance. The system provides users with efficient management capabilities, allowing for operations such as: - Displaying all appointments - Inserting new appointments - Querying specific appointments - Updating appointment details - Deleting appointments - Saving appointment data to a file\nRobust error-handling mechanisms are integrated to ensure a reliable user experience. The user-friendly interface enhances the overall experience, ensuring smooth navigation through various functionalities.\n\n\n\n\n\n\n\nRole: Leader\nSkills: Python (Selenium, BeautifulSoup, Pandas, CustomTkinter, Matplotlib, CSV, etc.)\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive HDB property analysis GUI. The application not only provides insightful data analytics but also simplifies the property selection process through efficient web scraping, offering users a multifaceted tool for well-informed decision-making.\nKey Features: - Predictive pricing models: Users can forecast property prices. - Interactive data analytics charts: Provide a visual understanding of market trends. - Export charts in PNG format: Enhances user convenience.\n\n\n\n\n\n\n\nRole: Member of the FYP team\nSkills: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development\nYear: 2022\nLed weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a web application utilizing a Google Chrome Extension, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the top two projects in the cohort."
-  },
-  {
-    "objectID": "my-project.html#sit-c-project-appointment-scheduler-database",
-    "href": "my-project.html#sit-c-project-appointment-scheduler-database",
-    "title": "Projects",
-    "section": "",
-    "text": "Role: Member\nSkills: C language\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive Clinic Appointment Scheduling System using both ArrayList and LinkedList data structures to assess their comparative performance. The system provides users with efficient management capabilities, allowing for operations such as: - Displaying all appointments - Inserting new appointments - Querying specific appointments - Updating appointment details - Deleting appointments - Saving appointment data to a file\nRobust error-handling mechanisms are integrated to ensure a reliable user experience. The user-friendly interface enhances the overall experience, ensuring smooth navigation through various functionalities."
-  },
-  {
-    "objectID": "my-project.html#sit-python-project-hdb-analysis-prediction-gui",
-    "href": "my-project.html#sit-python-project-hdb-analysis-prediction-gui",
-    "title": "Projects",
-    "section": "",
-    "text": "Role: Leader\nSkills: Python (Selenium, BeautifulSoup, Pandas, CustomTkinter, Matplotlib, CSV, etc.)\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive HDB property analysis GUI. The application not only provides insightful data analytics but also simplifies the property selection process through efficient web scraping, offering users a multifaceted tool for well-informed decision-making.\nKey Features: - Predictive pricing models: Users can forecast property prices. - Interactive data analytics charts: Provide a visual understanding of market trends. - Export charts in PNG format: Enhances user convenience."
-  },
-  {
-    "objectID": "my-project.html#rp-final-year-project-spf-gatekeeper",
-    "href": "my-project.html#rp-final-year-project-spf-gatekeeper",
-    "title": "Projects",
-    "section": "",
-    "text": "Role: Member of the FYP team\nSkills: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development\nYear: 2022\nLed weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a web application utilizing a Google Chrome Extension, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the top two projects in the cohort."
-  },
-  {
-    "objectID": "reflection.html",
-    "href": "reflection.html",
-    "title": "Reflections",
-    "section": "",
-    "text": "GenAI has been a huge part of my learning journey, like a mentor who guides me like teaching me the basics and improving my skills along the way, it also breaks down complex topic for me which helps me digest it faster I mostly use the AI, Chatgpt which I find the most reliable. Additionally it also helps me in identifying bugs if I make any. Though it might not be fully understanding of everything as it might not be good in everything like designing or doing a whole application. But it does help me understand better and guide me when I am in need of small tasks which really helps me alot in my studies and the way I do learning now.\n\n\n\nRelated Video\nWatch this video to learn more:"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Website",
@@ -61,5 +26,47 @@
     "title": "Welcome to My Website",
     "section": "",
     "text": "I am also Indonesian Chinese. Indonesia is a country rich in cultural diversity and natural beauty. Growing up as part of this unique cultural blend has shaped my perspectives and values. It has also inspired my passion for learning and connecting with people from various walks of life. Explore Indonesia on the map below:"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflections",
+    "section": "",
+    "text": "GenAI has been a huge part of my learning journey, like a mentor who guides me like teaching me the basics and improving my skills along the way, it also breaks down complex topic for me which helps me digest it faster I mostly use the AI, Chatgpt which I find the most reliable. Additionally it also helps me in identifying bugs if I make any. Though it might not be fully understanding of everything as it might not be good in everything like designing or doing a whole application. But it does help me understand better and guide me when I am in need of small tasks which really helps me alot in my studies and the way I do learning now.\n\n\n\nRelated Video\nWatch this video to learn more:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who Am I?",
+    "section": "",
+    "text": "Who Am I?\nMy name is Celeste Tan Jia Yu, and I am passionate about data science, technology, and storytelling. I enjoy working on projects that make data insights accessible to everyone.\n\n\nTechnical Skills\n\n\n\n\n\n\n\nCategory\nDetails\n\n\n\n\nComputer Maintenance and System Administration\nProficient in computer maintenance and system administration tasks.  Operating Systems: Ubuntu (Linux)\n\n\nNetworking\nLAN and Wireless networking expertise.  Cisco Packet Tracer for network simulation.\n\n\nProgramming Languages\nAdvanced Java, Python (Wing IDE), .NET (Visual Studio), JavaScript, MySQL, C# (Visual Studio), Solidity (blockchain development)\n\n\nDatabase Programs\nProficient in managing databases using MySQL and Oracle Database.\n\n\nNetworking Programs\nExperienced in network analysis using Wireshark.  Cisco Packet Tracer for network simulation.\n\n\nVirtualization\nExperience with VMware virtualization.\n\n\nMS Office Suite\nMS Word, MS Excel, MS PowerPoint\n\n\nMethodology\nSDLC (Software Development Life Cycle), BPMN (Business Process Model and Notation), UML (Unified Modeling Language), Agile methodology, RAD (Rapid Application Development)\n\n\nSoftware Packages\nSAS (Statistical Analysis System)\n\n\n\n\n\n\nAchievements\n\n2023: Octava Foundation Scholar\n2022: Director’s Roll of Honour\n2022: Top 10 Finalist of the iDare Entrepreneurial Challenge 2022 (December to February)\n2021 – 2022: Participant of EMPOWER AI for Girls (10 Sessions from October to February)\n2021: Participant of the PolyFintech Hackathon 2021\n2019 – 2020: Howe Yoon Chong PSA Scholarship\n2019 – 2020: Chip Eng Seng Grant\n2019: Participant for Girls Capture the Flag Competition"
+  },
+  {
+    "objectID": "my-project.html",
+    "href": "my-project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Member\nSkills: C language\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive Clinic Appointment Scheduling System using both ArrayList and LinkedList data structures to assess their comparative performance. The system provides users with efficient management capabilities, allowing for operations such as: - Displaying all appointments - Inserting new appointments - Querying specific appointments - Updating appointment details - Deleting appointments - Saving appointment data to a file\nRobust error-handling mechanisms are integrated to ensure a reliable user experience. The user-friendly interface enhances the overall experience, ensuring smooth navigation through various functionalities.\n\n\n\n\n\n\n\nRole: Leader\nSkills: Python (Selenium, BeautifulSoup, Pandas, CustomTkinter, Matplotlib, CSV, etc.)\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive HDB property analysis GUI. The application not only provides insightful data analytics but also simplifies the property selection process through efficient web scraping, offering users a multifaceted tool for well-informed decision-making.\nKey Features: - Predictive pricing models: Users can forecast property prices. - Interactive data analytics charts: Provide a visual understanding of market trends. - Export charts in PNG format: Enhances user convenience.\n\n\n\n\n\n\n\nRole: Member of the FYP team\nSkills: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development\nYear: 2022\nLed weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a web application utilizing a Google Chrome Extension, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the top two projects in the cohort."
+  },
+  {
+    "objectID": "my-project.html#sit-c-project-appointment-scheduler-database",
+    "href": "my-project.html#sit-c-project-appointment-scheduler-database",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Member\nSkills: C language\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive Clinic Appointment Scheduling System using both ArrayList and LinkedList data structures to assess their comparative performance. The system provides users with efficient management capabilities, allowing for operations such as: - Displaying all appointments - Inserting new appointments - Querying specific appointments - Updating appointment details - Deleting appointments - Saving appointment data to a file\nRobust error-handling mechanisms are integrated to ensure a reliable user experience. The user-friendly interface enhances the overall experience, ensuring smooth navigation through various functionalities."
+  },
+  {
+    "objectID": "my-project.html#sit-python-project-hdb-analysis-prediction-gui",
+    "href": "my-project.html#sit-python-project-hdb-analysis-prediction-gui",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Leader\nSkills: Python (Selenium, BeautifulSoup, Pandas, CustomTkinter, Matplotlib, CSV, etc.)\nYear: 2023\nCollaborated with a dynamic team to develop a comprehensive HDB property analysis GUI. The application not only provides insightful data analytics but also simplifies the property selection process through efficient web scraping, offering users a multifaceted tool for well-informed decision-making.\nKey Features: - Predictive pricing models: Users can forecast property prices. - Interactive data analytics charts: Provide a visual understanding of market trends. - Export charts in PNG format: Enhances user convenience."
+  },
+  {
+    "objectID": "my-project.html#rp-final-year-project-spf-gatekeeper",
+    "href": "my-project.html#rp-final-year-project-spf-gatekeeper",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Member of the FYP team\nSkills: Java, Firebase, JavaScript, Spring Boot, Google Chrome Extension Development\nYear: 2022\nLed weekly sessions with my FYP team from April 18 to August 2 to address the rising threat of internet phishing links. My team developed a web application utilizing a Google Chrome Extension, providing users with a safeguard against phishing scams. Despite the challenges, our project excelled, securing a spot among the top two projects in the cohort."
   }
 ]
